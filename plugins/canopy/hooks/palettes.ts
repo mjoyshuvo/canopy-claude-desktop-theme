@@ -95,14 +95,14 @@ export const PALETTES: Record<PaletteId, Palette> = {
         'surface-1': '#e5e9e0',
         'surface-2': '#f1f4ed',
         'surface-3': '#f1f4ed',
-        'text-primary': '#18302a',
+        'text-primary': '#0d1512',
         'text-secondary': '#2e5a4c',
         'text-muted': '#4b6a5e',
       },
       // Lively seeds so icons, links and code read colorful against the soft page.
       roles: { accent: '#1f8a72', danger: '#c0473a', success: '#4f9a12', warning: '#b07400', pro: '#6a55c8' },
       // Main window apple green, sidebars a lighter, quieter off-white sage.
-      scene: { sideTop: '#eef0ea', sideLow: '#ebeee7', edge: '#c9d9bd', middle: '#e5e9e0' },
+      scene: { sideTop: '#eef0ea', sideLow: '#ebeee7', edge: '#c9d9bd', middle: '#eef3f0' },
     },
     dark: UNUSED,
   },
