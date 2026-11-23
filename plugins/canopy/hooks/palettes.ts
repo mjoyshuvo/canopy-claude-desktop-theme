@@ -102,7 +102,7 @@ export const PALETTES: Record<PaletteId, Palette> = {
       // Lively seeds so icons, links and code read colorful against the soft page.
       roles: { accent: '#1f8a72', danger: '#c0473a', success: '#4f9a12', warning: '#b07400', pro: '#6a55c8' },
       // Main window apple green, sidebars a lighter, quieter off-white sage.
-      scene: { sideTop: '#eef0ea', sideLow: '#ebeee7', edge: '#c9d9bd', middle: '#eef3f0' },
+      scene: { sideTop: '#eef0ea', sideLow: '#ebeee7', edge: '#c9d9bd', middle: '#e4e8e0' },
     },
     dark: UNUSED,
   },
